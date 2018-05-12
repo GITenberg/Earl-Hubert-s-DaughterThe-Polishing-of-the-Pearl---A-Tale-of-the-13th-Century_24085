@@ -1,0 +1,29 @@
+_repo: Earl-Hubert-s-DaughterThe-Polishing-of-the-Pearl---A-Tale-of-the-13th-Century_24085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PZ'
+- !lcsh 'England -- Social life and customs -- 1066-1485 -- Fiction'
+title: 'Earl Hubert''s Daughter
+
+  The Polishing of the Pearl - A Tale of the 13th Century'
+url: http://www.gutenberg.org/ebooks/24085
